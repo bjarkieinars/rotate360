@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/batterifinal-1.JPG" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" />
+  </settings>
+  <hotspots />
+  <images rows="1">
+    <image src="images/batterifinal-1.JPG" />
+    <image src="images/batterifinal-2.JPG" />
+    <image src="images/batterifinal-3.JPG" />
+    <image src="images/batterifinal-4.JPG" />
+    <image src="images/batterifinal-5.JPG" />
+    <image src="images/batterifinal-6.JPG" />
+    <image src="images/batterifinal-7.JPG" />
+    <image src="images/batterifinal-8.JPG" />
+    <image src="images/batterifinal-9.JPG" />
+    <image src="images/batterifinal-10.JPG" />
+    <image src="images/batterifinal-11.JPG" />
+    <image src="images/batterifinal-12.JPG" />
+    <image src="images/batterifinal-13.JPG" />
+    <image src="images/batterifinal-14.JPG" />
+    <image src="images/batterifinal-15.JPG" />
+    <image src="images/batterifinal-16.JPG" />
+    <image src="images/batterifinal-17.JPG" />
+    <image src="images/batterifinal-18.JPG" />
+    <image src="images/batterifinal-19.JPG" />
+    <image src="images/batterifinal-20.JPG" />
+    <image src="images/batterifinal-21.JPG" />
+    <image src="images/batterifinal-22.JPG" />
+    <image src="images/batterifinal-23.JPG" />
+    <image src="images/batterifinal-24.JPG" />
+    <image src="images/batterifinal-25.JPG" />
+    <image src="images/batterifinal-26.JPG" />
+    <image src="images/batterifinal-27.JPG" />
+    <image src="images/batterifinal-28.JPG" />
+    <image src="images/batterifinal-29.JPG" />
+    <image src="images/batterifinal-30.JPG" />
+    <image src="images/batterifinal-31.JPG" />
+    <image src="images/batterifinal-32.JPG" />
+    <image src="images/batterifinal-33.JPG" />
+    <image src="images/batterifinal-34.JPG" />
+    <image src="images/batterifinal-35.JPG" />
+    <image src="images/batterifinal-36.JPG" />
+    <image src="images/batterifinal-37.JPG" />
+    <image src="images/batterifinal-38.JPG" />
+    <image src="images/batterifinal-39.JPG" />
+    <image src="images/batterifinal-40.JPG" />
+    <image src="images/batterifinal-41.JPG" />
+    <image src="images/batterifinal-42.JPG" />
+    <image src="images/batterifinal-43.JPG" />
+    <image src="images/batterifinal-44.JPG" />
+    <image src="images/batterifinal-45.JPG" />
+    <image src="images/batterifinal-46.JPG" />
+    <image src="images/batterifinal-47.JPG" />
+    <image src="images/batterifinal-48.JPG" />
+    <image src="images/batterifinal-49.JPG" />
+    <image src="images/batterifinal-50.JPG" />
+    <image src="images/batterifinal-51.JPG" />
+    <image src="images/batterifinal-52.JPG" />
+    <image src="images/batterifinal-53.JPG" />
+    <image src="images/batterifinal-54.JPG" />
+    <image src="images/batterifinal-55.JPG" />
+    <image src="images/batterifinal-56.JPG" />
+    <image src="images/batterifinal-57.JPG" />
+    <image src="images/batterifinal-58.JPG" />
+    <image src="images/batterifinal-59.JPG" />
+    <image src="images/batterifinal-60.JPG" />
+    <image src="images/batterifinal-61.JPG" />
+    <image src="images/batterifinal-62.JPG" />
+    <image src="images/batterifinal-63.JPG" />
+    <image src="images/batterifinal-64.JPG" />
+    <image src="images/batterifinal-65.JPG" />
+    <image src="images/batterifinal-66.JPG" />
+    <image src="images/batterifinal-67.JPG" />
+    <image src="images/batterifinal-68.JPG" />
+    <image src="images/batterifinal-69.JPG" />
+    <image src="images/batterifinal-70.JPG" />
+    <image src="images/batterifinal-71.JPG" />
+    <image src="images/batterifinal-72.JPG" />
+  </images>
+</config>
